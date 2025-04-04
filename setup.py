@@ -5,14 +5,14 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setup(
-    name="llamakv",
+    name="llamakv-llamasearch",
     version="0.1.0",
-    author="LlamaSearch.ai",
-    author_email="info@llamasearch.ai",
+    author="LlamaSearch AI",
+    author_email="nikjois@llamasearch.ai",
     description="Flexible key-value storage system for LlamaSearch.ai applications",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/llamasearch/llamakv",
+    url="https://llamasearch.ai",
     project_urls={
         "Bug Tracker": "https://github.com/llamasearch/llamakv/issues",
         "Documentation": "https://docs.llamasearch.ai/llamakv",
