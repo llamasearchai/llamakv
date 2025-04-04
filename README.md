@@ -26,7 +26,7 @@ pip install llamakv
 ### From source
 
 ```bash
-git clone https://github.com/llamasearch/llamakv.git
+git clone https://llamasearch.ai
 cd llamakv
 pip install -e .
 ```
